@@ -1,0 +1,17 @@
+﻿  Main_proyecto.cpp
+c:\users\axel\documents\visual studio 2017\cgeih\practica8\practica8\main_proyecto.cpp(429): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\axel\documents\visual studio 2017\cgeih\practica8\practica8\main_proyecto.cpp(359): warning C4101: 'nrChannels': variable local sin referencia
+c:\users\axel\documents\visual studio 2017\cgeih\practica8\practica8\main_proyecto.cpp(359): warning C4101: 'textureWidth': variable local sin referencia
+c:\users\axel\documents\visual studio 2017\cgeih\practica8\practica8\main_proyecto.cpp(361): warning C4101: 'image': variable local sin referencia
+c:\users\axel\documents\visual studio 2017\cgeih\practica8\practica8\main_proyecto.cpp(359): warning C4101: 'textureHeight': variable local sin referencia
+c:\users\axel\documents\visual studio 2017\cgeih\practica8\practica8\main_proyecto.cpp(1869): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\axel\documents\visual studio 2017\cgeih\practica8\practica8\main_proyecto.cpp(1875): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\axel\documents\visual studio 2017\cgeih\practica8\practica8\main_proyecto.cpp(1881): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\axel\documents\visual studio 2017\cgeih\practica8\practica8\main_proyecto.cpp(1887): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\axel\documents\visual studio 2017\cgeih\practica8\practica8\main_proyecto.cpp(2028): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\axel\documents\visual studio 2017\cgeih\practica8\practica8\main_proyecto.cpp(2029): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\axel\documents\visual studio 2017\cgeih\practica8\practica8\main_proyecto.cpp(2033): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\axel\documents\visual studio 2017\cgeih\practica8\practica8\main_proyecto.cpp(2034): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\axel\documents\visual studio 2017\cgeih\practica8\practica8\main_proyecto.cpp(2036): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\axel\documents\visual studio 2017\cgeih\practica8\practica8\main_proyecto.cpp(2037): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Practica8.vcxproj -> C:\Users\Axel\Documents\Visual Studio 2017\CGEIH\Practica8\Debug\Practica8.exe
